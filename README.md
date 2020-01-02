@@ -2,7 +2,7 @@
 
 ## Dev Note
 This is a fork of jnyryan/vagrant-simplesamlphp.
-The main purpose of this fork is to deploy SSP using an up-to-date LAMP stack.
+The main purpose of this fork is to deploy SSP using an up-to-date LAMP stack + make it easier to deploy my existing SSP repos.
 
 simpleSAMLphp installed on a vagrant virtual machine.
 
