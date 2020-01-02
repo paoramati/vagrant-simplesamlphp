@@ -1,5 +1,9 @@
 # vagrant-simplesamlphp
 
+## Dev Note
+This is a fork of jnyryan/vagrant-simplesamlphp.
+The main purpose of this fork is to deploy SSP using an up-to-date LAMP stack.
+
 simpleSAMLphp installed on a vagrant virtual machine.
 
 .. with the added bonus of also installing it on a [Docker](https://www.docker.com/) lightweight container... just for kicks
